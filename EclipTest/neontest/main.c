@@ -20,7 +20,7 @@ int main(void)
 	for (int i=0; i<10; i++)
 	{
 		num1=num1+num2;
-
+        //num1 value is not 1.0
 	}//for adding
 
 	//Check for Machine Epsilon and compare
